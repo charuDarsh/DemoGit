@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-31T15:06:13Z" name="Free crm test application test suite " finished-at="2022-05-31T15:09:04Z" duration-ms="170930">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T15:06:13Z" name="free crm test class" finished-at="2022-05-31T15:09:04Z" duration-ms="170930">
+      <class name="com.crm.qa.tests.HomePageTest">
+        <test-method is-config="true" signature="Setup1()[pri:0, instance:com.crm.qa.tests.HomePageTest@3081f72c]" started-at="2022-05-31T11:07:19Z" name="Setup1" finished-at="2022-05-31T11:07:27Z" duration-ms="8206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup1 -->
+        <test-method signature="cousename()[pri:1, instance:com.crm.qa.tests.HomePageTest@3081f72c]" started-at="2022-05-31T11:07:27Z" name="cousename" finished-at="2022-05-31T11:07:31Z" duration-ms="4355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cousename -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.crm.qa.tests.HomePageTest@3081f72c]" started-at="2022-05-31T11:07:31Z" name="shutdown" finished-at="2022-05-31T11:07:32Z" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+        <test-method is-config="true" signature="Setup1()[pri:0, instance:com.crm.qa.tests.HomePageTest@3081f72c]" started-at="2022-05-31T11:07:54Z" name="Setup1" finished-at="2022-05-31T11:08:02Z" duration-ms="8374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup1 -->
+        <test-method signature="validateserch()[pri:2, instance:com.crm.qa.tests.HomePageTest@3081f72c]" started-at="2022-05-31T11:08:02Z" name="validateserch" finished-at="2022-05-31T11:08:06Z" duration-ms="3581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateserch -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.crm.qa.tests.HomePageTest@3081f72c]" started-at="2022-05-31T11:08:06Z" name="shutdown" finished-at="2022-05-31T11:08:10Z" duration-ms="4217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+        <test-method is-config="true" signature="Setup1()[pri:0, instance:com.crm.qa.tests.HomePageTest@3081f72c]" started-at="2022-05-31T11:08:33Z" name="Setup1" finished-at="2022-05-31T11:08:41Z" duration-ms="8528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup1 -->
+        <test-method signature="serchicon()[pri:3, instance:com.crm.qa.tests.HomePageTest@3081f72c]" started-at="2022-05-31T11:08:41Z" name="serchicon" finished-at="2022-05-31T11:08:47Z" duration-ms="5282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serchicon -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.crm.qa.tests.HomePageTest@3081f72c]" started-at="2022-05-31T11:08:47Z" name="shutdown" finished-at="2022-05-31T11:08:47Z" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- com.crm.qa.tests.HomePageTest -->
+      <class name="com.crm.qa.tests.jobSupportTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.tests.jobSupportTest@7ceb3185]" started-at="2022-05-31T11:06:53Z" name="setup" finished-at="2022-05-31T11:07:12Z" duration-ms="18530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="usernameentry()[pri:0, instance:com.crm.qa.tests.jobSupportTest@7ceb3185]" started-at="2022-05-31T11:07:12Z" name="usernameentry" finished-at="2022-05-31T11:07:13Z" duration-ms="1360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernameentry -->
+        <test-method is-config="true" signature="shutdown1()[pri:0, instance:com.crm.qa.tests.jobSupportTest@7ceb3185]" started-at="2022-05-31T11:07:13Z" name="shutdown1" finished-at="2022-05-31T11:07:14Z" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown1 -->
+      </class> <!-- com.crm.qa.tests.jobSupportTest -->
+      <class name="com.crm.qa.tests.RejisterPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.tests.RejisterPageTest@6e005dc9]" started-at="2022-05-31T11:06:13Z" name="setup" finished-at="2022-05-31T11:06:30Z" duration-ms="16586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="joblinkclick()[pri:0, instance:com.crm.qa.tests.RejisterPageTest@6e005dc9]" started-at="2022-05-31T11:06:30Z" name="joblinkclick" finished-at="2022-05-31T11:06:32Z" duration-ms="2077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- joblinkclick -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.crm.qa.tests.RejisterPageTest@6e005dc9]" started-at="2022-05-31T11:06:32Z" name="shutdown" finished-at="2022-05-31T11:06:36Z" duration-ms="4351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.tests.RejisterPageTest@6e005dc9]" started-at="2022-05-31T11:06:36Z" name="setup" finished-at="2022-05-31T11:06:52Z" duration-ms="16284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="titleofpage()[pri:0, instance:com.crm.qa.tests.RejisterPageTest@6e005dc9]" started-at="2022-05-31T11:06:52Z" name="titleofpage" finished-at="2022-05-31T11:06:53Z" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleofpage -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.crm.qa.tests.RejisterPageTest@6e005dc9]" started-at="2022-05-31T11:06:53Z" name="shutdown" finished-at="2022-05-31T11:06:53Z" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- com.crm.qa.tests.RejisterPageTest -->
+      <class name="com.crm.qa.tests.SignUpTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.tests.SignUpTest@7fbdb894]" started-at="2022-05-31T11:07:14Z" name="setup" finished-at="2022-05-31T11:07:19Z" duration-ms="4964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatePageLogo()[pri:1, instance:com.crm.qa.tests.SignUpTest@7fbdb894]" started-at="2022-05-31T11:07:19Z" name="validatePageLogo" finished-at="2022-05-31T11:07:19Z" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageLogo -->
+        <test-method is-config="true" signature="turnclose()[pri:0, instance:com.crm.qa.tests.SignUpTest@7fbdb894]" started-at="2022-05-31T11:07:19Z" name="turnclose" finished-at="2022-05-31T11:07:19Z" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turnclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.tests.SignUpTest@7fbdb894]" started-at="2022-05-31T11:07:46Z" name="setup" finished-at="2022-05-31T11:07:51Z" duration-ms="5328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logininitate()[pri:2, instance:com.crm.qa.tests.SignUpTest@7fbdb894]" started-at="2022-05-31T11:07:51Z" name="logininitate" finished-at="2022-05-31T11:07:54Z" duration-ms="2548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logininitate -->
+        <test-method is-config="true" signature="turnclose()[pri:0, instance:com.crm.qa.tests.SignUpTest@7fbdb894]" started-at="2022-05-31T11:07:54Z" name="turnclose" finished-at="2022-05-31T11:07:54Z" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turnclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.tests.SignUpTest@7fbdb894]" started-at="2022-05-31T11:08:24Z" name="setup" finished-at="2022-05-31T11:08:29Z" duration-ms="5575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPage()[pri:3, instance:com.crm.qa.tests.SignUpTest@7fbdb894]" started-at="2022-05-31T11:08:29Z" name="loginPage" finished-at="2022-05-31T11:08:33Z" duration-ms="3134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method is-config="true" signature="turnclose()[pri:0, instance:com.crm.qa.tests.SignUpTest@7fbdb894]" started-at="2022-05-31T11:08:33Z" name="turnclose" finished-at="2022-05-31T11:08:33Z" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turnclose -->
+      </class> <!-- com.crm.qa.tests.SignUpTest -->
+      <class name="com.crm.qa.tests.aboutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.tests.aboutTest@3148f668]" started-at="2022-05-31T11:07:32Z" name="setup" finished-at="2022-05-31T11:07:46Z" duration-ms="13901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatecoursename()[pri:1, instance:com.crm.qa.tests.aboutTest@3148f668]" started-at="2022-05-31T11:07:46Z" name="validatecoursename" finished-at="2022-05-31T11:07:46Z" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatecoursename -->
+        <test-method is-config="true" signature="turndown()[pri:0, instance:com.crm.qa.tests.aboutTest@3148f668]" started-at="2022-05-31T11:07:46Z" name="turndown" finished-at="2022-05-31T11:07:46Z" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turndown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.tests.aboutTest@3148f668]" started-at="2022-05-31T11:08:10Z" name="setup" finished-at="2022-05-31T11:08:24Z" duration-ms="13445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatecoursename2()[pri:2, instance:com.crm.qa.tests.aboutTest@3148f668]" started-at="2022-05-31T11:08:24Z" name="validatecoursename2" finished-at="2022-05-31T11:08:24Z" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatecoursename2 -->
+        <test-method is-config="true" signature="turndown()[pri:0, instance:com.crm.qa.tests.aboutTest@3148f668]" started-at="2022-05-31T11:08:24Z" name="turndown" finished-at="2022-05-31T11:08:24Z" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turndown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.tests.aboutTest@3148f668]" started-at="2022-05-31T11:08:47Z" name="setup" finished-at="2022-05-31T11:09:02Z" duration-ms="14812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="nextPage()[pri:3, instance:com.crm.qa.tests.aboutTest@3148f668]" started-at="2022-05-31T11:09:02Z" name="nextPage" finished-at="2022-05-31T11:09:04Z" duration-ms="2097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextPage -->
+        <test-method is-config="true" signature="turndown()[pri:0, instance:com.crm.qa.tests.aboutTest@3148f668]" started-at="2022-05-31T11:09:04Z" name="turndown" finished-at="2022-05-31T11:09:04Z" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turndown -->
+      </class> <!-- com.crm.qa.tests.aboutTest -->
+    </test> <!-- free crm test class -->
+  </suite> <!-- Free crm test application test suite  -->
+</testng-results>
